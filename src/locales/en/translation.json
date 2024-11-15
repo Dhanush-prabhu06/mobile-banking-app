@@ -1,0 +1,9 @@
+{
+    "welcome": "Welcome to EasyBank",
+    "transferFunds": "Transfer Funds",
+    "recipientAccount": "Recipient’s Account Number",
+    "enterAmount": "Enter Amount",
+    "confirmTransfer": "Transfer",
+    "successMessage": "Transfer initiated successfully!"
+  }
+  
