@@ -34,7 +34,11 @@ const Navbar = () => {
         <Link to="/support" className="hover:underline">
           Support
         </Link>
-        <button className="bg-yellow-500 px-4 py-2 rounded">Login</button>
+        <button className="bg-yellow-500 px-4 py-2 rounded">
+          <Link to="/login" className="hover:underline">
+            Login
+          </Link>
+        </button>
 
         <div className="flex gap-2 mt-2 md:mt-0">
           <button onClick={() => i18n.changeLanguage("en")}>EN</button>
